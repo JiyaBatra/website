@@ -1,0 +1,238 @@
+body{
+    background-color: rgb(254, 237, 237);
+    
+}
+.red {
+    background-image: url(https://th.bing.com/th/id/R.0383c6a65363f3d8d18d445675029c62?rik=ZeLGQmBWchh69A&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f22100000%2fColored-pencils-pencils-22186520-2560-1702.jpg&ehk=NiEao3GRjvspxsBfG1IeGMQCGPcnQd%2fCaAzI2Y0%2bOQw%3d&risl=1&pid=ImgRaw&r=0);
+margin:0 ;
+padding: 100px; 
+background-attachment:scroll;
+text-align: center;
+text-shadow: black;
+text-decoration: khaki;
+height: 1000;
+width: 500;
+}   
+
+ 
+h1 {
+    
+    color: wheat;
+text-align: center;
+    }
+.purple{
+    display:block;
+    background-color :burlywood;
+    color: blanchedalmond;
+    text-align: center;
+    background-attachment: fixed;
+    box-sizing: inherit;
+    box-sizing: border-box;
+}
+.black {
+    color: brown;
+    border: brown;
+}
+.youtube{
+    text-align: center;
+    box-sizing: content-box;
+    border: 1px solid rgb(245, 245, 245) ;
+    background-color: rgb(255, 255, 255);
+}
+.nav{
+    border: 1px solid rgb(23, 1, 1);
+    color: white;
+    
+    
+}
+.home{
+    border: 2px solid rgb(255, 255, 255);
+    color: aliceblue;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/616/494/non_2x/home-logo-and-symbols-vector.jpg);
+    background-repeat: no-repeat;
+    text-align: end;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-size: 37px;
+    position: 100px;
+    margin: 10px;
+    background-color: rgb(248, 9, 49);
+
+}
+.about{
+    border: 2px solid white;
+    color: aliceblue;
+    background-image: url(https://www.abouthealthcare.com/wp-content/uploads/2021/10/ABOUT_Logo_Stacked_FullColor_ABOUT_Logo_Stacked_FullColor.jpg);
+    background-repeat: no-repeat;
+    text-align: end;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-size: 30px;
+    position: 100px;
+    margin: 10px;
+    background-color: rgb(4, 138, 4);
+}
+.contact{
+    border: 2px solid white;
+    color: aliceblue;
+    background-image: url(https://th.bing.com/th/id/OIP.mYPttZZb3w9PDtnrSgSgGwHaHa?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    text-align: end;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-size: 30px;
+    position: 100px;
+    margin: 10px;
+    background-color: rgb(4, 129, 129);
+}
+.logo{
+    
+        width: 100px;
+        height: 100px;
+        background-color: red;
+        position: relative;
+        animation-name: example;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;}
+      @keyframes example {
+        0%   {background-color:red; left:0px; top:0px;}
+        25%  {background-color:yellow; left:500px; top:0px;}
+}
+.desgin {
+width: 100px;
+height: 100px;
+background-color: red;
+position: relative;
+animation-name: ex;
+animation-duration: 4s;
+animation-iteration-count: infinite;}
+
+
+@keyframes ex {
+0%   {background-color:red; right:0px; top:0px;}
+25%  {background-color:yellow; right:500px; top:0px;}
+}
+.ab{
+    size: flex;
+    color: darkgray;
+    background-color: black;
+}
+a{
+    border: 1px solid white;
+    background-color: rgba(165, 42, 42, 0.884);
+    color: white;
+}
+.instagram{
+    background-image: url(https://th.bing.com/th/id/OIP.izOOxDyHFwihHcQcKIExmQAAAA?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    text-align: end;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background-size: 30px;
+    position: 100px;
+    margin: 10px; 
+}
+.jiya{
+    background-image: linear-gradient(to right,brown,burlywood,rgb(182, 144, 73),white);
+    border: 2px solid white ;
+    color: white;
+}
+.start{
+    background-image: linear-gradient(to left,brown,burlywood,rgb(182, 144, 73),white);
+    border: 2px;
+    color: aliceblue;
+    padding: 50px ;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    color: brown;
+}
+.color{
+    background-image: linear-gradient(to bottom,brown,burlywood,rgb(182, 144, 73),white);
+    border: 2px;
+    padding: 50px ;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    color: brown;
+} 
+.medium{
+    background-image: linear-gradient(to top,brown,burlywood,rgb(182, 144, 73),white);
+    border: 2px;
+    padding: 50px ;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    color: brown;
+} 
+.imagination{
+    background-image: linear-gradient(to left,brown,burlywood,rgb(182, 144, 73),white);
+    border: 2px;
+    padding: 50px ;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    color: brown;
+}
+.mandala{
+    background-image:linear-gradient(to top,brown,burlywood,rgb(182, 144, 73),white) ;
+    border-radius: 25px ;
+    border-color: brown;
+    border-width: 5px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    color: brown;
+}
+.pencil{
+    background-image:linear-gradient(to left,brown,burlywood,rgb(182, 144, 73),white) ;
+    border-radius: 25px;
+    border-color: brown;
+    border-width: 5px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    color: brown;
+}
+.shading{
+    background-image:linear-gradient(to top,brown,burlywood,rgb(182, 144, 73),white) ;
+    border-radius: 25px;
+    border-color: brown;
+    border-width: 5px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    color: brown;
+}
+.oil{
+    background-image:linear-gradient(to right,brown,burlywood,rgb(182, 144, 73),white) ;
+    border-radius: 25px; border-color: brown;
+    border-width: 5px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    color: brown; 
+}
+.painting{
+    background-image:linear-gradient(to bottom,brown,burlywood,rgb(182, 144, 73),white) ;
+    border-radius: 25px;
+    border-color: brown;
+    border-width: 5px;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    color: brown;
+}
+.gallery{
+    
+    border: 25px solid burlywood;
+    
+}
